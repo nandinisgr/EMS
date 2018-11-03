@@ -1,0 +1,8 @@
+Create a database called registration. 
+In the registration database, add a table called users. 
+The users table will take the following four fields.
+
+id
+username  -  varchar(30)
+email  -  varchar(30)
+password  -  varchar(30)
